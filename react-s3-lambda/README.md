@@ -1,5 +1,7 @@
 # react-s3-lambda
 
+![arch image for nerds](https://github.com/OpeOginni/interesting-deployments/blob/main/react-s3-lambda/media/react-s3-lambda.png)
+
 ## S3 Bucket Config
 
 1) After building the static frontend `bun run build`, copy every file and place in a bucket.
